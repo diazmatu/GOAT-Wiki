@@ -1,2 +1,2 @@
 # GOAT-Wiki
-UNQ - TTIP - Diaz Matias GOAT
+UNQ - TTIP - Matias Diaz GOAT
