@@ -14,4 +14,4 @@
 
 ---
 
-#### Documentación: [https://docs.google.com/document/d/1XB4aN1XF3fcPZ_FBdzFerD-e_RpmUph2YM9vS_bN94Q/edit?usp=sharing](PoC - Documentación inicial)
+#### Documentación: [PoC - Documentación Inicial](https://docs.google.com/document/d/1XB4aN1XF3fcPZ_FBdzFerD-e_RpmUph2YM9vS_bN94Q/edit?usp=sharing)
