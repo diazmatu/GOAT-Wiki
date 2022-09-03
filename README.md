@@ -14,4 +14,10 @@
 
 ---
 
+#### Trello: [G.O.A.T. - TTIP](https://www.trello.com/invite/b/139vEzyp/fa1ea1431d34caa0c4d769d007a0ddb0/ttip-goat)
+
+#### Frontend: [G.O.A.T. - Front](https://www.github.com/diazmatu/GOAT-Front/)
+
+#### Backend: [G.O.A.T. - Back](https://www.github.com/diazmatu/GOAT-Back/)
+
 #### Documentación: [PoC - Documentación Inicial](https://docs.google.com/document/d/1XB4aN1XF3fcPZ_FBdzFerD-e_RpmUph2YM9vS_bN94Q/edit?usp=sharing)
