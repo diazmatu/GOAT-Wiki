@@ -2,7 +2,7 @@
 
 ## UNQ - Taller de Trabajo de Inserción Profesional
 
-<img src="/Logo.jpg" alt="G.O.A.T. Logo" title="G.O.A.T. Logo" width="80">
+<img src="/Logo.jpg" alt="G.O.A.T. Logo" title="G.O.A.T. Logo" width="150">
 
 ### G.O.A.T
 
