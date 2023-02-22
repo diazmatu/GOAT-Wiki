@@ -20,4 +20,12 @@
 
 #### Backend: [G.O.A.T. - Back](https://www.github.com/diazmatu/GOAT-Back/)
 
-#### Documentación: [PoC - Documentación Inicial](https://docs.google.com/document/d/1XB4aN1XF3fcPZ_FBdzFerD-e_RpmUph2YM9vS_bN94Q/edit?usp=sharing)
+#### Documentación: 
+
+*   [PoC - Documentación Inicial](https://docs.google.com/document/d/1XB4aN1XF3fcPZ_FBdzFerD-e_RpmUph2YM9vS_bN94Q/edit?usp=sharing)  
+     
+*   [PoC - Presentacion](https://prezi.com/view/oriiOSyLxZzwgkVHOXeJ/)  
+     
+*   [G.O.A.T - Presentacion Final](https://prezi.com/view/J2yKkmA43nVbM4Q1FFii/)  
+     
+*   [G.O.A.T. - Modelo de Entidades](https://dbdiagram.io/d/6321e1350911f91ba5ad096a)
